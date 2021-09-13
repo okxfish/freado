@@ -2,7 +2,7 @@ fread in golang - simple RSS Server
 
 后端：用 Gin 快速搭建基础restful风格API，Gin 是一个go语言编写的Web框架。
 
-数据库：采用MySql(5.6.44)版本，使用 gorm 实现对数据库的基本操作。
+数据库：采用MySql(8.0)版本，使用 gorm 实现对数据库的基本操作。
 
 缓存：Redis
 
